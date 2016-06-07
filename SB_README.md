@@ -18,3 +18,6 @@ WANT to be able to amplify pools of
 4) sequence_filtered_1-200 (2 files)
 5) sequence_filtered_201-450 (2 files)
 6) sequence_filtered_451-700 (2 files)
+
+Want to be able to amplify each of thse pools and add on the rest of the SP6 promoter or could use a T7 promoter.
+I'd appreicate your advice on how best to accomplish this!
