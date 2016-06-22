@@ -20,7 +20,6 @@ WANT to be able to amplify pools of
 5) set201_450_100bp_50ovlp.out					23,488 probes
 6) set451_700_100bp_50ovlp.out					22,406 probes
 
-8919 spare probes
+8919 spare probes - to use I modified set1_200 as marked below
 
-Want to be able to amplify each of thse pools and add on the rest of the SP6 promoter or could use a T7 promoter.
-I'd appreicate your advice on how best to accomplish this!
+You can replace number 4 with the two new files:  set1_200_basic & set1_200_extra - they should be amplified together as one pool
